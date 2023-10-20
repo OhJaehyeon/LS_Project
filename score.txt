@@ -1,0 +1,5 @@
+'SibSp', 'Parch', 'Embarked', 'Family' 제거 (Pclass, Age, Fare, Passengers, Title, Sex)
+0.77272
+
+'SibSp', 'Parch', 'Embarked', 'Family', 'Title' 제거 (Pclass, Age, Fare, Passengers, Sex)
+0.77511
